@@ -9,4 +9,4 @@ Program sederhana untuk enkripsi dan dekripsi teks menggunakan **Caesar Cipher**
 - Input kunci berupa integer (1–25)
 
 ## Tampilan program dan hasil dari program
-[Hasil Output](Tampilan Program.png)
+[Hasil Output](TampilanProgram.png)
